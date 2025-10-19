@@ -10,9 +10,9 @@ Haricharan Venkatesh
 - Remaining letters count determines the relationship through FLAMES.
 
 ## Example
-Enter a boy's name: Rahul
-Enter a girl's name: Priya
-For Rahul and Priya : Marriage
+- Enter a boy's name: Rahul
+- Enter a girl's name: Priya
+- For Rahul and Priya : Marriage
 
 ## Concepts Used
 - Lists and loops  
